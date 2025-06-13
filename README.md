@@ -26,14 +26,6 @@ Pull requests welcome! 🙌
 
 ---
 
-## Community Projects
-
-> Open source projects built using Vike
-
-* [vike-islands](https://github.com/luisfuturist/vike-island-example) - Islands Architecture implementation example using Vike + React + Vue (experimental)
-
----
-
 ## Boilerplates & Starters
 
 * [bati](https://github.com/vikejs/bati) – Official CLI to scaffold Vike apps.
@@ -52,6 +44,15 @@ Pull requests welcome! 🙌
 
 ---
 
-## Examples
+## Community Projects
 
-* *\[Examples here]*
+> Open source projects built using Vike
+
+* [vike-islands](https://github.com/luisfuturist/vike-island-example) - Islands Architecture implementation example using Vike + React + Vue (experimental)
+
+---
+
+## Projects using Vike.js
+
+* [Spline Application](https://app.spline.design) - A free 3D design software
+* [Dexscreener](https://dexscreener.com) - Analyze real-time data from multiple decentralized exchanges and chains
