@@ -30,7 +30,7 @@ Pull requests welcome! 🙌
 
 > Open source projects built using Vike
 
-* *\[Community projects here!]*
+* [vike-islands](https://github.com/luisfuturist/vike-island-example) - Islands Architecture implementation example using Vike + React + Vue (experimental)
 
 ---
 
